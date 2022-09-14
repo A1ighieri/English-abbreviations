@@ -211,7 +211,7 @@ h2 {
     
  }
  .project-background{
-    background-image: url(..img/downPicture.jpg);
+    background-image: url(./img/downPicture.jpg);
     background-size: cover;
  }
 
